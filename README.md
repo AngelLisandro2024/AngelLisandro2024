@@ -23,6 +23,13 @@ Certificado en el desarrollo de soluciones tecnológicas eficientes, especializa
 ### 📧 Contacto
 * **Email:** angelfernandez12v@gmail.com
 * **Estado:** 🟢 Disponible para proyectos freelance en Trujillo y remoto.
+---
+
+### 🎥 Mi Canal de YouTube
+En mi tiempo libre, comparto contenido sobre programación, tutoriales técnicos y desarrollo de software para ayudar a otros estudiantes y emprendedores:
+
+* **[Nombre de tu Canal]**: https://www.youtube.com/@LisandroVicoCode
+* 🛠️ **¿Qué encontrarás?**: Tutoriales de Python, despliegue de sistemas y optimización de software.
 
 ---
 
