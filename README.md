@@ -28,7 +28,7 @@ Certificado en el desarrollo de soluciones tecnológicas eficientes, especializa
 ### 🎥 Mi Canal de YouTube
 En mi tiempo libre, comparto contenido sobre programación, tutoriales técnicos y desarrollo de software para ayudar a otros estudiantes y emprendedores:
 
-* **[Nombre de tu Canal]**: https://www.youtube.com/@LisandroVicoCode
+* **Lisandro Vico Code**: https://www.youtube.com/@LisandroVicoCode
 * 🛠️ **¿Qué encontrarás?**: Tutoriales de Python, despliegue de sistemas y optimización de software.
 
 ---
