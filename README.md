@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Ángel Fernández
+# 👋 ¡Hola! Soy Angel Fernández
 ### **T.S.U en Informática | Backend Developer | Estudiante de Ingeniería**
 
 [![GitHub Followers](https://img.shields.io/github/followers/AngelLisandro2024?style=social)](https://github.com/AngelLisandro2024)
