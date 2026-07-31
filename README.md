@@ -68,19 +68,6 @@ En **Vico Code** comparto guías paso a paso sobre Python, arquitectura de bases
 
 </div>
 
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AngelLisandro2024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelLisandro2024&layout=compact&theme=tokyonight&hide=scss,css,javascript"/>
-
-</div>
-
----
-
 ### 📬 Conectemos
 
 * **Email Directo:** [angelfernandez12v@gmail.com](mailto:angelfernandez12v@gmail.com)
