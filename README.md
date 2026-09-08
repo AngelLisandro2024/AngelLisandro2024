@@ -64,11 +64,11 @@
 
 ---
 
-### 🏆 Logros de GitHub
+### 📊 Actividad en GitHub
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AngelLisandro2024&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=AngelLisandro2024&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="85%" />
 
 </div>
 
