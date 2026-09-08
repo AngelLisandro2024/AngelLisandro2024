@@ -64,12 +64,11 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🏆 Logros de GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AngelLisandro2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Estadísticas de GitHub" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelLisandro2024&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&cache_seconds=86400" alt="Lenguajes más usados" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=AngelLisandro2024&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" width="100%" />
 
 </div>
 
